@@ -15,7 +15,7 @@
 **- việt nam** <br>
 **-waifu là 💞 hu tao 💞 (à và hu tao op vãi)** <br>
 
-<img src="stuff/hutao.png" alt="thằng normie" width="175" height="175"/>
+<img src="stuff/hutao.jpg" alt="thằng normie" width="175" height="175"/>
 
 ## Website (html)
 [https://aboutme.tkyanh69.repl.co](https://aboutme.tkyanh69.repl.co)
